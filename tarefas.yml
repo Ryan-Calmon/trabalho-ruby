@@ -1,0 +1,28 @@
+---
+- :id: 1
+  :titulo: Tarefa 1
+  :descricao: Descrição da Tarefa 1
+  :data_prazo:
+  :etiquetas:
+  - :Faculdade
+  :data_conclusao: 2025-11-27 13:35:15.114081200 -03:00
+- :id: 3
+  :titulo: Tarefa 3
+  :descricao: ''
+  :data_prazo:
+  :etiquetas:
+  - :Faculdade
+  :data_conclusao:
+- :id: 4
+  :titulo: Tarefa 4
+  :descricao: Descrição Tarefa 4
+  :data_prazo: '2026-01-01'
+  :etiquetas:
+  - :programas
+  :data_conclusao:
+- :id: 5
+  :titulo: Tarefa 5
+  :descricao: ''
+  :data_prazo:
+  :etiquetas: []
+  :data_conclusao:
